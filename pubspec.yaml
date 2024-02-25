@@ -1,0 +1,29 @@
+name: esignature
+description: "App for generate E-Signature"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  signature: ^5.4.1
+  flutter_colorpicker: ^1.0.3
+  permission_handler: ^11.3.0
+  get: ^4.6.6
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
