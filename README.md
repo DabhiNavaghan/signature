@@ -41,8 +41,11 @@ Once the app is running, you can use the following functionalities:
 
 This project utilizes the following dependencies:
 
-- [GetX](https://pub.dev/packages/get): State management and dependency injection library for Flutter.
-- [image_gallery_saver](https://pub.dev/packages/image_gallery_saver): A Flutter plugin for saving images to the device's gallery.
+- [get](https://pub.dev/packages/get): State management and dependency injection library for Flutter.
+- [signature](https://pub.dev/packages/signature): A Flutter plugin to capture and render digital signatures.
+- [flutter_colorpicker](https://pub.dev/packages/flutter_colorpicker): A color picker for Flutter, used for selecting pen colors.
+- [permission_handler](https://pub.dev/packages/permission_handler): A Flutter plugin for requesting permissions on Android and iOS.
+
 
 ## Feedback
 
